@@ -1,0 +1,26 @@
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\bin\Debug\WowAddonSyncer.exe.config
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\bin\Debug\WowAddonSyncer.exe
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\bin\Debug\WowAddonSyncer.pdb
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.csprojResolveAssemblyReference.cache
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\obj\Debug\MainWindow.baml
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\obj\Debug\MainWindow.g.cs
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\obj\Debug\App.g.cs
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer_MarkupCompile.cache
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.g.resources
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.Properties.Resources.resources
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.csproj.GenerateResource.Cache
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.exe
+C:\Users\iPrometheus\Desktop\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.pdb
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\bin\Debug\WowAddonSyncer.exe.config
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\bin\Debug\WowAddonSyncer.exe
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\bin\Debug\WowAddonSyncer.pdb
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\obj\Debug\MainWindow.baml
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\obj\Debug\App.baml
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\obj\Debug\MainWindow.g.cs
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\obj\Debug\App.g.cs
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer_MarkupCompile.cache
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.g.resources
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.Properties.Resources.resources
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.csproj.GenerateResource.Cache
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.exe
+H:\Dropbox\Dave - Current Personal\WowAddonSyncer\WowAddonSyncer\obj\Debug\WowAddonSyncer.pdb

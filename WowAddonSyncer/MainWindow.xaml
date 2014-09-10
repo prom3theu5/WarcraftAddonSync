@@ -1,0 +1,29 @@
+﻿<controls:MetroWindow x:Class="WowAddonSyncer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        Title="WoW: Addons to Dropbox by Prom3theu5" Height="206" Width="533" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="3xhumed-Mega-Games-Pack-31-Warcraft-II-new-4.ico" WindowTransitionsEnabled="False">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Background="#3366cc" Panel.ZIndex="9999" Visibility="Hidden" Grid.RowSpan="2" x:Name="CopyProgress" >
+            <Label Foreground="White" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,10,0,0" FontSize="30">PROCESSING ADDONS</Label>
+            <ProgressBar VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="30,50,30,0" Height="50" IsIndeterminate="True"></ProgressBar>
+        </Grid>
+        <Label VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,24,0,0">Select WoW Folder</Label>
+        <Label VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,69,0,0">Select Dropbox Folder</Label>
+        <TextBox x:Name="WoWFolderBox" VerticalAlignment="Top" HorizontalAlignment="Left" Width="263" Margin="143,29,0,0" IsReadOnly="True"></TextBox>
+        <TextBox x:Name="DropBoxFolder" VerticalAlignment="Top" HorizontalAlignment="Left" Width="263" Margin="143,74,0,0" IsReadOnly="True"/>
+        <StatusBar Grid.Row="1">
+            <StatusBarItem HorizontalContentAlignment="Right">
+                <TextBlock x:Name="StatusMSG" VerticalAlignment="Center"></TextBlock>
+            </StatusBarItem>
+        </StatusBar>
+        <Button Content="Browse" HorizontalAlignment="Left" Margin="423,29,0,0" VerticalAlignment="Top" Width="75" x:Name="setWowFolder" Click="setWowFolder_Click"/>
+        <Button Content="Browse" HorizontalAlignment="Left" Margin="423,72,0,0" VerticalAlignment="Top" Width="75" x:Name="setDropboxbutton" Click="setDropboxbutton_Click"/>
+        <Button Content="GO" HorizontalAlignment="Left" Margin="484,109,0,0" VerticalAlignment="Top" Width="25" x:Name="DoIt" Click="DoIt_Click"/>
+        <Button Content="Remove From Dropbox" HorizontalAlignment="Left" Margin="10,109,0,0" VerticalAlignment="Top" Width="150" x:Name="RollBackBUtton" Click="RollBack_Click"/>
+    </Grid>
+</controls:MetroWindow>
